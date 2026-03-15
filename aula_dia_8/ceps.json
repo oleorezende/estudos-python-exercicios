@@ -1,0 +1,32 @@
+[
+    {
+        "cep": "18410-295",
+        "logradouro": "Rua Fernando César Rodrigues de Oliveira",
+        "complemento": "",
+        "unidade": "",
+        "bairro": "Conjunto Habitacional Tancredo Neves",
+        "localidade": "Itapeva",
+        "uf": "SP",
+        "estado": "São Paulo",
+        "regiao": "Sudeste",
+        "ibge": "3522406",
+        "gia": "3724",
+        "ddd": "15",
+        "siafi": "6549"
+    },
+    {
+        "cep": "81200-424",
+        "logradouro": "Rua Constante de Conto",
+        "complemento": "",
+        "unidade": "",
+        "bairro": "Orleans",
+        "localidade": "Curitiba",
+        "uf": "PR",
+        "estado": "Paraná",
+        "regiao": "Sul",
+        "ibge": "4106902",
+        "gia": "",
+        "ddd": "41",
+        "siafi": "7535"
+    }
+]
